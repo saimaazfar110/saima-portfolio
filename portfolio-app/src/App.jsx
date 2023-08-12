@@ -1,12 +1,21 @@
-import { useState } from 'react'
+import REACT  from 'react';
+import "./Index.css";
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
 
-  )
+  
+  <div>
+    <h1>this is app.js</h1>
+    </div>
+
+
+
+
+  
+
+  );
 }
 
-export default App
+export default App;
